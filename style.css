@@ -87,3 +87,28 @@ margin-left: 50px;
     margin-left: 50px;
     margin-top: 30px;
 }
+.footer-section{
+    margin-top: 50px;
+}
+.footer-section div img{
+    margin-left: 500px;
+}
+.fa-instagram{
+    color: cornflowerblue;
+    font-size: 50px;  
+}
+.fa-basketball-ball{
+    color: cornflowerblue;
+    font-size: 50px;  
+}
+.fa-twitter-square{
+    color: cornflowerblue;
+    font-size: 50px;  
+}
+.fa-youtube-square{
+    color: cornflowerblue;
+    font-size: 50px;  
+}
+.footer-section p{
+    text-align: center;
+}
