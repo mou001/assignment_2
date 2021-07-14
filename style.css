@@ -1,0 +1,62 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.start div h1 {
+    font-size: 50px;
+}
+nav li {
+    list-style: none;
+    margin: 15px;   
+}
+nav ul {
+    display: flex;
+}
+nav li a{
+    text-decoration: none;
+    color:white;
+    font-size: 24px;
+}
+.start {
+    display: flex;
+    margin: 30px;
+}
+.start div {   
+margin-left: 50px;
+}
+.first-section {
+    background-color: blue;
+    color: white;
+   
+}
+.first-section:hover{
+    border: 5px solid greenyellow;
+}
+.link-button1 {
+    text-decoration: none;
+    color: white;
+    background-color: yellowgreen;
+    border-radius: 30px;
+    padding: 20px;
+    background-image: linear-gradient(yellowgreen, rgb(251, 255, 0));
+}
+.link-button2 {
+
+    text-decoration: none;
+    color: white;
+    background-color: yellowgreen;
+    border-radius: 30px;
+    padding: 20px;
+    background-image: linear-gradient(yellowgreen, rgb(251, 255, 0));
+}
+.players-info1{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+}
+.player{
+    box-shadow: 10px 10px 30px grey;
+    margin: 10px;
+    padding-top: 10px;
+    padding-left: 35px;
+    padding-right: 20px;
+    text-align: justify;
+}
